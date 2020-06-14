@@ -1,1 +1,1 @@
-anycoonect.fasttel.site:443
+95.217.17.30:443
